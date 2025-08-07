@@ -14,6 +14,9 @@ Admin Command: Admins can use the !chicken command to manually spawn a giant chi
 
 Fully Configurable: The plugin's behavior, including chicken spawn chance and scale, is adjustable in the config file.
 
+# Attribution:
+This plugin was developed with significant assistance from large language models, with approximately 90% of the code and logic generated and refined by ChatGPT and Gemini.
+
 # Requirements
 [Latest release of Counter Strike Sharp](https://github.com/roflmuffin/CounterStrikeSharp)
 
